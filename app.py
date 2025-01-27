@@ -103,7 +103,7 @@ def hello():
                 <div class="subtitle">Welcome to</div>
                 <div class="title">Docker - Basics to Brilliance Course</div>
                 <div class="subtitle">by</div>
-                <div class="name">Kastro Kiran V</div>
+                <div class="name">Praveenkumar A</div>
             </div>
             <a href="https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh" class="button docker-button" target="_blank">
                 <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Icon" width="20"> Docker - Basics to Brilliance
